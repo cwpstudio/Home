@@ -130,7 +130,7 @@ body {
   color: black;
 }
 
-#showcase .mini-container a div {
+#showcase .mini-container div {
   margin: 50% 0%;
   background-color: white;
   opacity: 0.1;
@@ -139,8 +139,9 @@ body {
   -webkit-transition: opacity 0.5s;
 }
 
-#showcase .mini-container a div:hover {
+#showcase .mini-container div:hover {
   opacity: 1;
+  background-color: #34FF19;
 }
 #showcase .mini-container p {
   font-size: 20px;
