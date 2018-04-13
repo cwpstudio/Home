@@ -134,6 +134,9 @@ body {
   margin: 50% 0%;
   background-color: white;
   opacity: 0.1;
+  transition: opacity 0.5s;
+  -moz-transition: opacity 0.5;
+  -webkit-transition: opacity 0.5s;
 }
 
 #showcase .mini-container a div:hover {
